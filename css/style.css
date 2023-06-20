@@ -128,7 +128,7 @@ header{
     font-size: 16px;
     text-align: center;
     background-color: #ccc;
-    border: solid #ddd;
+    border: 1px solid #ddd;
     border-bottom: none;
 }
 .tabmenu>li>a:hover{
